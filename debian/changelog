@@ -1,3 +1,10 @@
+apt-offline (1.7~bpo8+1+kru1) jessie-backports; urgency=medium
+
+  * Non-maintainer upload (krumedia GmbH).
+  * HTTPS Authentication
+
+ -- Matthias Blümel <matthias.bluemel@krumedia.com>  Mon, 03 Jul 2017 17:42:35 +0200
+
 apt-offline (1.7~bpo8+1) jessie-backports; urgency=medium
 
   * Backport release of apt-offline 1.7
