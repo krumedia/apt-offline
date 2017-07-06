@@ -1,3 +1,10 @@
+apt-offline (1.7~bpo8+1+kru2) jessie-backports; urgency=medium
+
+  * Non-maintainer upload (krumedia GmbH).
+  * Ignore HTTPS Server Certificate
+
+ -- Matthias Blümel <matthias.bluemel@krumedia.com>  Thu, 06 Jul 2017 17:39:30 +0200
+
 apt-offline (1.7~bpo8+1+kru1) jessie-backports; urgency=medium
 
   * Non-maintainer upload (krumedia GmbH).
