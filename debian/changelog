@@ -1,3 +1,9 @@
+apt-offline (1.8.1+kru2) stretch; urgency=medium
+
+  * fix typo in variable name
+
+ -- Matthias Blümel <matthias.bluemel@krumedia.com>  Fri, 18 Aug 2017 11:22:43 +0200
+
 apt-offline (1.8.1+kru1) stretch; urgency=medium
 
   * https client-authentication
